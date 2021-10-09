@@ -9,7 +9,7 @@ const render = todos =>
     .map(
       ({ id, content, completed }) =>
         `<li id="${id}">
-    <label><input type="checkbox" ${completed ? 'checked' : ''}>${content}</label>
+    <label><input type="text" ${completed ? 'checked' : ''}>${content}</label>
   </li>`
     )
     .join('');
