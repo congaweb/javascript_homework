@@ -16,6 +16,6 @@ Date 메서드 활용 연습
 
 ## todos 앱 연습
 
-### 1. [todos-v1](./)
+### 1. [todos-v1](./todos-v1)
 
 todo list 추가 및 삭제, 완료 체크 기능 구현
