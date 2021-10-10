@@ -26,3 +26,9 @@
 - js 파일 별도 생성
 - app.js 초기 버전
 - app2.js 최종 버전
+
+### 3. [todos-v3](./todos-v3)
+
+- 모듈화 적용
+- state.js : 상태 제어 함수
+- main.js : 이벤트 바인딩
